@@ -1,15 +1,21 @@
-<head>
-  <link rel="stylesheet" href="./style.css">
-</head>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div class = "column-left">
+    <!-- 
+    aaaaaaaaa
 
-<div class = "column-left">
-aaaaaaaaa
+    bbbbbbbbb 
+    -->
+    </div>
 
-bbbbbbbbb
-</div>
+    <div class = "column-right">
+    ccccccccc
 
-<div class = "column-right">
-ccccccccc
-
-[Twitter](https://twitter.com/KuMAofficialCir)
-</div>
+    [Twitter](https://twitter.com/KuMAofficialCir)
+    </div>
+  </body>
+</html>
