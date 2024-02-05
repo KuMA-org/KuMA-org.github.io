@@ -1,5 +1,8 @@
 theme: minima
 
+title: 熊本大学工学部公認サークル KuMA
+description: VRを始めとしたXRコンテンツの制作・展示を主に活動しています
+
 header_pages:
   - index.md
   - links.md
